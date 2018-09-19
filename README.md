@@ -1,2 +1,2 @@
 # Unit-1-02a
-Two imageView 
+Two images showing up on the screen
